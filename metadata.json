@@ -1,0 +1,5 @@
+{
+  "name": "Wizard's Chess",
+  "description": "A magical, animated 3D chess game with online multiplayer and PvE modes, inspired by wizarding duels.",
+  "requestFramePermissions": []
+}
